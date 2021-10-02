@@ -16,6 +16,9 @@ function App() {
           <Route exact path="/">
             <Meals></Meals>
           </Route>
+          <Route exact path="/home">
+            <Meals></Meals>
+          </Route>
           <Route path="/food">
             <Meals></Meals>
           </Route>
