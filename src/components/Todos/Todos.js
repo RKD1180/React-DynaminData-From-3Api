@@ -17,7 +17,7 @@ const Todos = () => {
     <div>
       <Container>
         <h2 className="text-center mt-3 mb-5">
-          This Page Data Show From Json Place Holder APi
+          This Page Data Show From Json Place Holder Api
         </h2>
         <Row>
           {todos.map((todo) => (
